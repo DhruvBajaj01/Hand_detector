@@ -7,3 +7,6 @@
 <div align="center">
 	<img src="https://github.com/DhruvBajaj01/Hand_detector/blob/main/hand_detector.png" width=500>
 </div>	
+
+## Tech Stacks Used:
+-[OpenCV library](https://opencv.org/)
