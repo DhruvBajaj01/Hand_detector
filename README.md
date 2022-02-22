@@ -1,6 +1,6 @@
  <p align="center">
 	<h1 align="center">  Hand Detector  </h1>
-	<h3 align="center"> Used opencv for hand detection. The python script detects 21 points on hands to detect its movement* </h3>
+	<h3 align="center"> Used opencv for hand detection. The python script detects 21 points on hands to detect its movement </h3>
 </p>
 
 
